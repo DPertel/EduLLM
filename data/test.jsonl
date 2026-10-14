@@ -1,0 +1,3 @@
+{"instruction": "Explique o que é uma condição booleana e dê um exemplo em Python.", "response": "Uma condição booleana é uma expressão avaliada como True ou False. Exemplo: idade >= 18."}
+{"instruction": "Crie um exercício sobre funções em Python.", "response": "Crie uma função chamada dobro que receba um número e retorne o dobro dele. Depois, chame a função e mostre o resultado."}
+{"instruction": "Explique como percorrer uma lista e imprimir cada item.", "response": "Use um for: frutas = ['maçã', 'pera']; for fruta in frutas: print(fruta). O laço processa cada elemento."}

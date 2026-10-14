@@ -108,7 +108,7 @@ git init
 git add .
 git commit -m "Initial EduLLM project"
 git branch -M main
-git remote add origin https://github.com/SEU-USUARIO/EduLLM.git
+git remote add origin https://github.com/DPertel/EduLLM.git
 git push -u origin main
 ```
 

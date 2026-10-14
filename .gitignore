@@ -1,0 +1,16 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.cache/
+.huggingface/
+artifacts/
+outputs/
+results/*.csv
+!results/.gitkeep
+*.safetensors
+*.bin
+*.pt
+*.pth
+.DS_Store

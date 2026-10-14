@@ -1,0 +1,8 @@
+{"instruction": "Explique o que é uma variável em Python para um iniciante.", "response": "Uma variável é um nome associado a um valor. Exemplo: idade = 20. Depois, print(idade) mostra o valor armazenado."}
+{"instruction": "Explique o laço for em Python com um exemplo curto.", "response": "O for percorre os itens de uma sequência. Exemplo:\nfor numero in range(3):\n    print(numero)\nEsse código imprime 0, 1 e 2."}
+{"instruction": "Crie um exercício iniciante sobre listas, sem mostrar a solução.", "response": "Crie uma lista com cinco números inteiros e escreva um programa que calcule e mostre a soma dos elementos."}
+{"instruction": "Qual é a diferença entre lista e tupla em Python?", "response": "Listas são mutáveis: seus elementos podem ser alterados. Tuplas são imutáveis após a criação. Exemplo: lista = [1, 2] e tupla = (1, 2)."}
+{"instruction": "Explique uma função em Python com exemplo.", "response": "Uma função agrupa instruções reutilizáveis. Exemplo:\ndef saudar(nome):\n    return f'Olá, {nome}!'\nA chamada saudar('Ana') retorna 'Olá, Ana!'."}
+{"instruction": "Como tratar uma divisão por zero em Python?", "response": "Use try/except para tratar ZeroDivisionError. Exemplo:\ntry:\n    resultado = 10 / divisor\nexcept ZeroDivisionError:\n    print('Não é possível dividir por zero.')"}
+{"instruction": "Explique o que faz if/else em Python.", "response": "if/else escolhe entre caminhos conforme uma condição. Exemplo:\nif idade >= 18:\n    print('Maior de idade')\nelse:\n    print('Menor de idade')"}
+{"instruction": "Crie um exercício de lógica com condicionais.", "response": "Peça ao usuário um número inteiro e mostre se ele é par ou ímpar. Dica: use o operador resto %, sem entregar o código completo."}

@@ -1,0 +1,2 @@
+{"instruction": "Explique o que é um dicionário em Python.", "response": "Um dicionário armazena pares de chave e valor. Exemplo: aluno = {'nome': 'Bia', 'nota': 9}. O valor pode ser acessado com aluno['nome']."}
+{"instruction": "Crie um exercício simples sobre laços de repetição.", "response": "Escreva um programa que imprima os números de 1 a 10 usando um laço for."}
