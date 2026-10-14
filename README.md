@@ -96,19 +96,6 @@ Só compare execuções que realmente concluíram. Registre tempo, loss, VRAM, l
 
 Salvo em `Relatorio_Treinando_LLM_Evidencias.pdf`:
 
-## 10. GitHub
-
-```powershell
-git init
-git add .
-git commit -m "Initial EduLLM project"
-git branch -M main
-git remote add origin https://github.com/DPertel/EduLLM.git
-git push -u origin main
-```
-
-Não suba `.venv/`, caches, dados privados, tokens ou pesos grandes sem verificar limites e licença. O `.gitignore` já exclui os artefatos de modelo.
-
 ## Licença e reprodutibilidade
 
 Verifique e documente a licença e os termos do modelo-base e de todos os dados utilizados. Registre sistema, GPU, VRAM, driver, versões de bibliotecas, parâmetros e sementes em cada execução.
