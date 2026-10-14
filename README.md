@@ -14,6 +14,16 @@ Projeto acadêmico de fine-tuning local de uma LLM para tutoria de Python, com t
 </div>
 
 ---
+## 👥 Integrantes
+
+- **Nome:** `Deivison Pertel` — **RM:** `550803`
+- **Nome:** `Eduardo Akira Murata` — **RM:** `98713`
+- **Nome:** `Wesley Souza de Oliveira` — **RM:** `97874`
+
+**Curso:** Engenharia de Software  
+**Disciplina:** GENERATIVE AI
+
+---
 
 ## 📌 Sobre o projeto
 
@@ -333,15 +343,6 @@ Para facilitar a reprodução dos experimentos, registre:
 - 🧪 Parâmetros utilizados em cada treinamento
 - 🎲 Sementes aleatórias, quando aplicável
 - 📚 Versão do dataset e critérios de avaliação
-
-## 👥 Integrantes
-
-- **Nome:** `Deivison Pertel` — **RM:** `550803`
-- **Nome:** `Eduardo Akira Murata` — **RM:** `98713`
-- **Nome:** `Wesley Souza de Oliveira` — **RM:** `97874`
-
-**Curso:** Engenharia de Software  
-**Disciplina:** GENERATIVE AI
 
 ---
 
