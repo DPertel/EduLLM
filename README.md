@@ -94,12 +94,7 @@ Só compare execuções que realmente concluíram. Registre tempo, loss, VRAM, l
 
 ## 9. Capturas de tela obrigatórias
 
-Salve em `docs/screenshots/`:
-- `01_nvidia-smi.png`: terminal com GPU e driver.
-- `02_cuda_check.png`: saída de `src/gpu_check.py` mostrando CUDA e `cuda:0`.
-- `03_training_gpu.png`: treinamento em andamento com `nvidia-smi` ou GPU Monitor.
-- `04_frontend.png`: frontend em execução.
-- `05_results.png`: resultados reais da avaliação.
+Salvo em `Relatorio_Treinando_LLM_Evidencias.pdf`:
 
 ## 10. GitHub
 
